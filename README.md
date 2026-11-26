@@ -10,7 +10,7 @@ Optiwave introduces OptiPerformer, a free photonic design automation tool which 
 The system is *instrumented* with:
 - An optical power meter at the input to the receiver (or the output of the fiber)  
 - A bit error rate (BER) analyzer
-a
+
 ---
 
 ## Procedure
@@ -37,7 +37,8 @@ a
    - Note changes in received power and BER display (eye diagram, Q factor, BER) with fiber length.
   
 ## TABULATION 
-<img width="1280" height="1116" alt="Optical exp2" src="https://github.com/user-attachments/assets/2e448d52-8f68-4d12-a5f4-80802b8677ad" />
+<img width="1600" height="1344" alt="image" src="https://github.com/user-attachments/assets/65ab90e3-cb64-4b00-9139-65fec54022c9" />
+
 
 ---
 ## Observation

@@ -37,7 +37,7 @@ The system is *instrumented* with:
    - Note changes in received power and BER display (eye diagram, Q factor, BER) with fiber length.
   
 ## TABULATION 
-<img width="1600" height="1344" alt="image" src="https://github.com/user-attachments/assets/65ab90e3-cb64-4b00-9139-65fec54022c9" />
+![Uploading WhatsApp Image 2026-11-26 at 7.19.29 AM.jpeg…]()
 
 
 ---
